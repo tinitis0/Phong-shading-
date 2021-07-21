@@ -1,0 +1,71 @@
+﻿  stdafx.cpp
+  Bitmap.cpp
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(582): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(604): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(650): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(672): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(891): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(929): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(947): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(1861): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(1889): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(1907): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(2874): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(2999): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3005): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3013): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3015): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3023): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3058): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3061): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3088): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3091): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3102): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3140): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3317): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3338): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3343): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3473): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3477): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3485): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3493): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3506): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3523): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3527): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3665): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3693): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3704): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3705): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3719): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3738): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3756): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3767): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3776): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3803): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(3804): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4014): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4018): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4023): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4034): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4063): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4070): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4087): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4117): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4150): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4263): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4272): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4277): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4281): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\tinst\onedrive\desktop\new folder\teapot\stb_image\stb_image\stb_image.h(4330): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+  drawable.cpp
+  glslprogram.cpp
+  glutils.cpp
+  gl_core_4_3.cpp
+  QuatCamera.cpp
+  scenediffuse.cpp
+  TeapotAD.cpp
+  Texture.cpp
+  vboplane.cpp
+  vboteapot.cpp
+  Generating Code...
+  TeapotAD.vcxproj -> C:\Users\tinst\OneDrive\Desktop\New folder\TeaPot\TeapotAD\x64\Debug\TeapotAD.exe
